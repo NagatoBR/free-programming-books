@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 
 * [ABAP](#abap)
 * [Ada](#ada)
@@ -167,7 +167,6 @@
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
 * [Perl](#perl)
-* [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
   * [CakePHP](#cakephp)
   * [CodeIgniter](#codeigniter)
@@ -192,6 +191,7 @@
 * [QML](#qml)
 * [R](#r)
 * [Racket](#racket)
+* [Raku](#raku)
 * [Raspberry Pi](#raspberry-pi)
 * [REBOL](#rebol)
 * [Ruby](#ruby)
@@ -306,7 +306,7 @@
 
 #### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](http://dces.essex.ac.uk/staff/rpoli/gp-field-guide/toc.html) - Riccardo Poli et al.
+* [A Field Guide To Genetic Programming](https://b-ok.cc/book/861921/18f698) - Riccardo Poli et al. (PDF)
 * [Algorithmic Graph Theory](http://code.google.com/p/graphbook/)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick and Kevin Wayne
@@ -355,7 +355,6 @@
 #### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-* [Cellular Automata Books](http://www.comunidad.escom.ipn.mx/genaro/Cellular_Automata_Repository/Books.html)
 
 
 #### Cloud Computing
@@ -383,7 +382,6 @@
 
 * [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
-* [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) (PDF)
 * [Compiler Design in C (1990)](http://www.holub.com/software/compiler.design.in.c.html) - Allen Holub, Prentice Hall
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](http://elvis.rowan.edu/~bergmann/books/cd/c_cpp/) - Seth D. Bergmann
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](http://elvis.rowan.edu/~bergmann/books/cd/java/) - Seth D. Bergmann
@@ -747,8 +745,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Regular Expressions
 
+* [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal
+* [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/) - Sundeep Agarwal
 * [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minocha
 * [RexEgg](http://www.rexegg.com)
+* [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
 * [The 30 Minute Regex Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 * [The Bastards Book of Regular Expressions: Finding Patterns in Everyday Text](https://leanpub.com/bastards-regexes) - Dan Nguyen  *(Leanpub account or valid email requested)*
 
@@ -865,7 +866,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 * [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
 * [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
-* [SPARK for the MISRA-C Developer](https://learn.adacore.com/pdf_books/courses/SPARK_for_the_MISRA_C_Developer.pdf) - Yannick Moy (PDF)
 * [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
 
 
@@ -1012,7 +1012,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Learn to Code With C - The MagPi Essentials](https://www.raspberrypi.org/magpi-issues/Essentials_C_v1.pdf) (PDF)
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
-* [Modern C](https://web.archive.org/web/20190818210107/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf) - Jens Gustedt (PDF)
+* [Modern C](https://modernc.gforge.inria.fr) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [The C book](http://publications.gbdirect.co.uk/c_book/)
@@ -1321,6 +1321,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
 * [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git Notes](http://books.goalkicker.com/GitBook) (PDF)
 * [Git Pocket Guide](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507) - Richard E. Silverman
 * [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/)
 * [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) (email address *requested*, not required)
@@ -1428,6 +1429,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Canvassing](https://web.archive.org/web/20160505010319/http://learnjs.io/canvassing/read/)
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
+* [CSS Notes for Professionals](http://goalkicker.com/CSSBook) (PDF)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -1638,6 +1640,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Angular.js Material Designing](https://material.angularjs.org/latest/)
 * [Angular.js Tutorial](https://docs.angularjs.org/tutorial)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/)
+* [AngularJS Notes for Professionals](https://books.goalkicker.com/AngularJSBook) (PDF)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) (PDF, Kindle) (email address *requested*, not required)
 * [AngularJs vs EmberJs](http://angularjs-emberjs-compare.bguiz.com)
 * [Practical Angular: Build your first web apps with Angular 8](https://leanpub.com/practical-angular) - Ahmed Bouchefra *(Leanpub account or valid email requested)*
@@ -1652,7 +1655,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Backbone.js
 
-* [A Complete guide for learning Backbone.js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Backbone Tutorials: Beginner, Intermediate and Advanced](https://leanpub.com/backbonetutorials) - Thomas Davis   *(Leanpub account or valid email requested)*
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
@@ -1719,7 +1721,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Meteor
 
-* [BulletProof Meteor](https://bulletproofmeteor.com)
 * [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
 
 
@@ -1729,6 +1730,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
+* [Node.js Notes](http://books.goalkicker.com/NodeJSBook) (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [The Node Beginner Book](http://nodebeginner.org)
 
@@ -1846,7 +1848,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
 * [Linux Security for Beginners](http://www.linuxtopia.org/LinuxSecurity/index.html)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
-* [OpenVZ Linux virtualization](https://docs.virtuozzo.com/pdf/virtuozzo_infrastructure_platform_quick_start_guide.pdf) (PDF)
 * [Red Hat Enterprise Linux 6 Essentials](http://www.techotopia.com/index.php/Red_Hat_Enterprise_Linux_6_Essentials)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
@@ -1881,8 +1882,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (PDF, epub, markdown)
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
-* [SOLID Design Principles in Common Lisp](https://common-lisp-reserve.github.io/solid-design-principles-in-common-lisp/solid-design-principles-in-common-lisp.pdf) - Momozor (PDF)
-* [Successful Lisp: How to Understand and Use Common Lisp](https://github.com/clojurians-org/lisp-ebook/blob/master/Successful%20Lisp%20How%20to%20Understand%20and%20Use%20Common%20Lisp%20-%20David%20B.%20Lamkins.pdf) - David Lamkins (PDF)
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
@@ -1946,7 +1945,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [HGInit - Mercurial Tutorial](https://web.archive.org/web/20180926172759/http://hginit.com/) - Joel Spolsky
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com)
-* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) ([source repository](https://bitbucket.org/hgbook/hgbook)) (:construction: *in process*)
+* [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org)
 
 
 ### Mercury
@@ -2085,16 +2084,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web Client Programming with Perl](http://www.oreilly.com/openbook/webclient/)
 
 
-### Perl 6 / Raku
-
-* [Perl 6 at a Glance](https://perl6.online/perl6-at-a-glance/) - Andrew Shitov (HTML) (PDF)
-* [Perl 6 Introduction](http://perl6intro.com)
-* [Perl 6 Programming](https://en.wikibooks.org/wiki/Perl_6_Programming) - Wikibooks
-* [Raku One-Liners](https://web.archive.org/web/20191101151545/https://deeptext.media/i/raku-oneliners/RakuOneLiners.pdf) - Andrew Shitov (PDF)
-* [Think Perl 6](http://greenteapress.com/thinkperl6/thinkperl6.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
-* [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
-
-
 ### PHP
 
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
@@ -2180,7 +2169,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Secrets of PowerShell Remoting](https://www.gitbook.com/book/devopscollective/secrets-of-powershell-remoting/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Error Handling](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-error-handling/details) (PDF, ePub, MOBI)
 * [The Big Book of PowerShell Gotchas](https://www.gitbook.com/book/devopscollective/the-big-book-of-powershell-gotchas/details) (PDF, ePub, MOBI)
-* [The DSC Book](https://www.penflip.com/powershellorg/the-dsc-book) (PDF, ePub, HTML)
 * [The Monad Manifesto - Annotated](https://www.gitbook.com/book/devopscollective/the-monad-manifesto-annotated/details) (PDF, ePub, MOBI)
 * [Why PowerShell?](https://www.gitbook.com/book/devopscollective/why-powershell-/details) (PDF, ePub, MOBI)
 * [Windows PowerShell Networking Guide](https://www.gitbook.com/book/devopscollective/windows-powershell-networking-guide/details) (PDF, ePub, MOBI)
@@ -2260,7 +2248,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
   * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
-* [Invent Your Own Computer Games With Python](http://inventwithpython.com/chapters/) - Al Sweigart (3.1)
+* [Invent Your Own Computer Games With Python](http://inventwithpython.com/invent4thed/) - Al Sweigart (3.1)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
@@ -2393,6 +2381,18 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to Design Programs](https://htdp.org/2019-02-24/) - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/index.html)
 * [The Racket Guide](http://docs.racket-lang.org/guide/index.html)
+
+
+### Raku
+
+* [Metagenomics](https://legacy.gitbook.com/download/pdf/book/kyclark/metagenomics) - Ken Youens-Clark (PDF)
+* [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
+* [Raku Guide](https://raku.guide) (HTML) [(PDF)](https://github.com/hankache/rakuguide)
+* [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
+* [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
+* [Think Raku](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) - Laurent Rosenfeld, with Allen B. Downey (PDF)
+* [Using Perl 6](https://github.com/perl6/book/) (:construction: *project is dead*)
+* [X=Raku](https://learnxinyminutes.com/docs/raku/) - Learn X in Y minutes (HTML)
 
 
 ### Raspberry Pi
@@ -2649,7 +2649,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Swift
 
 * [Hacking with Swift](https://www.hackingwithswift.com)
-* [Learn Swift](http://books.aidanf.net/learn-swift)
 * [The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/content//documentation/Swift/Conceptual/BuildingCocoaApps/index.html) (HTML) [(iBook)](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 
@@ -2663,7 +2662,6 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Tcl
 
 * [Tcl Programming](https://en.wikibooks.org/wiki/Programming%3ATcl) - Richard.Suchenwirth, et. al.
-* [TclWise](http://www.invece.org/tclwise/index.html) - Salvatore Sanfilippo
 
 
 ### TEI
@@ -2688,7 +2686,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### TypeScript
 
-* [Making games with TypeScript](https://makinggameswithtypescript.com) - Øyvind (HTML) (:construction: *in process*)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
